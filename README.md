@@ -4,4 +4,5 @@ Koelectra_small 감정 분석을 통한 음악/조명 추천 시스템 소개
 
 main.py → record.py → stt&koelectra.py → play_neopixel.py(송신) → rpi3_motion.py(수신) → play_music (병렬 실행)
 
-![Uploading 캡스톤.png…]()
+
+<img width="1178" height="1336" alt="캡스톤" src="https://github.com/user-attachments/assets/719eb756-60df-4fbe-874a-6593b7a3d320" />
